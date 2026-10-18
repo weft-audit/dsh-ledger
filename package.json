@@ -1,0 +1,11 @@
+{
+  "name": "dsh-ledger",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Usage ledger for DeepSeek Harness: record usage events to JSONL, aggregate report tool; accounting only, no budget gate, no balance reads",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "dsh": ">=0.2.0-rc.2"
+  }
+}
